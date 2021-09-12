@@ -42,10 +42,10 @@ For the first proof of concept a Nucleo-L4R5ZI-P (STM32L4R5ZI) was chosen to int
   |                | Part #  |  Mfr. Name                    | Part Source                         |
 |--------|--------|----------|-----------|
 |Display Dev Board | 3.5" TFT 320x480 HXD8357D |  | adafruit.com |
-|MCU Dev Board| Nucleo-L4R5ZI | STM  | Digikey.com |
+|MCU Dev Board| Nucleo-L4R5ZI | STM  | digikey.com |
 
 
-### Wind Direction Sensor 
+### Custom Wind Direction Sensor 
   |    | Part #  |  Mfr. Name      | Part Source      |
 |------|-----|----|-----------|
 |GPIO Expander | SX1502I087TRT | SEMTECH  | digikey.com |
