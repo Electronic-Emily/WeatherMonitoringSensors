@@ -13,7 +13,7 @@ The station's environmental sensing abilities should include:
 - Wind Direction
 - Light Brightness
 
-
+https://www.youtube.com/watch?v=b739gNtUACo
 
 ![3D Printed Wind Direction Sensor](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirection_SensorV2_main_angle_zoomed_in.PNG)
 
