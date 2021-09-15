@@ -13,9 +13,8 @@ The station's environmental sensing abilities should include:
 - Wind Direction
 - Light Brightness
 
-https://www.youtube.com/watch?v=b739gNtUACo
 
-![3D Printed Wind Direction Sensor](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirection_SensorV2_main_angle_zoomed_in.PNG)
+![Wind Direction Sensor with Display showing arrow](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/Assembled_With_Display.PNG)
 
 
 
@@ -46,6 +45,9 @@ For the first proof of concept a Nucleo-L4R5ZI-P (STM32L4R5ZI) dev board was cho
 
 
 ### Custom Wind Direction Sensor 
+[Wind Direction Sensor Documentation](https://github.com/Electronic-Emily/WeatherMonitoringSensors/tree/main/docs/Wind_Sensor)
+[Wind Direction Sensor - Youtube video functionality test](https://www.youtube.com/watch?v=b739gNtUACo)
+
   |    | Part #  |  Mfr. Name      | Part Source      |
 |------|-----|----|-----------|
 |GPIO Expander | SX1502I087TRT | SEMTECH  | digikey.com |
