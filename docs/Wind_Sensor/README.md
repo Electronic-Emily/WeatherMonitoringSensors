@@ -22,7 +22,7 @@ The GPIO expander was re-flowed using a countertop oven and a thermal couple to 
 (not the best option, but functional for this proof of concept).
 
 ![Unpopulated PCB](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirection_PCB_top.jpg)
-
+![Eagle Cad PCB](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/Wind_Dir_V2_PCB.PNG)
 
 ### Other Hardware
 All of the mechanical hardware is stainless steel 304:
