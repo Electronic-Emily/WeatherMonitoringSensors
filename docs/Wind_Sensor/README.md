@@ -1,5 +1,5 @@
 # Wind Direction Sensor
-![3D Printed Wind Direction Sensor](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirection_SensorV2_main_angle_zoomed_in.PNG)
+![3D Printed Wind Direction Sensor] https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirection_SensorV2_main_angle_zoomed_in.PNG
 
 ## Summary
 This wind direction sensor is a proof of consent to determine the feasibility 
@@ -13,7 +13,7 @@ The GPIO expander (SX1502I087TRT) is an 8 I/O IC that is configured in an all in
 Thus when the magnet moves to a new location activating a different switch, the GPIO will SET the interrupt 
 output pin to inform the MCU that there has been a change. The communication and configuration is done through I2C.
 
-![Assembled Picture]https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirect_Assembled_01.PNG
+![Assembled Picture] https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirect_Assembled_01.PNG
 
 ## Hardware
 ### PCB
