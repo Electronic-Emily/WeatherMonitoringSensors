@@ -21,7 +21,7 @@ https://www.youtube.com/watch?v=b739gNtUACo
 
 ## Solution
 
-For the first proof of concept a Nucleo-L4R5ZI-P (STM32L4R5ZI) was chosen to interface with the sensors.
+For the first proof of concept a Nucleo-L4R5ZI-P (STM32L4R5ZI) dev board was chosen to interface with the sensors.
 
 
 ## Parts list
