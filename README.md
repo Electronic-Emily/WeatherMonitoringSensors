@@ -45,7 +45,9 @@ For the first proof of concept a Nucleo-L4R5ZI-P (STM32L4R5ZI) dev board was cho
 
 
 ### Custom Wind Direction Sensor 
+#### Sensor Docs
 [Wind Direction Sensor Documentation](https://github.com/Electronic-Emily/WeatherMonitoringSensors/tree/main/docs/Wind_Sensor)
+#### Sensor Video
 [Wind Direction Sensor - Youtube video functionality test](https://www.youtube.com/watch?v=b739gNtUACo)
 
   |    | Part #  |  Mfr. Name      | Part Source      |
