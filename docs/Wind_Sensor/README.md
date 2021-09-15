@@ -8,11 +8,21 @@ The reed switches are soldered onto circular PCB spaced every 45 degrees. The ma
 the top rotating section of the sensor, and activates the reed switches as it rotates. This can then be 
 used to determine the direction based on which switch is active. 
 
+## Functionality
+The GPIO expander (SX1502I087TRT) is an 8 I/O IC that is configured in an all input mode with edge detection triggering. 
+Thus when the magnet moves to a new location activating a different switch, the GPIO will SET the interrupt 
+output pin to inform the MCU that there has been a change. The communication and configuration is done through I2C.
+
+![Assembled Picture]https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirect_Assembled_01.PNG
+
 ## Hardware
 ### PCB
 The PCB was developed within Eagle Cad and was hand soldered, with the exception of the GPIO expander. 
 The GPIO expander was re-flowed using a countertop oven and a thermal couple to monitor the temperature 
 (not the best option, but functional for this proof of concept).
+
+![Unpopulated PCB] https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirection_PCB_top.jpg
+
 
 ### Other Hardware
 All of the mechanical hardware is stainless steel 304:
@@ -34,6 +44,8 @@ Stainless steel was chosen due its environmental abilities.
 This wind direction sensor is housed in a 3D printed housing made from PLA for this build, future 
 versions will be housed in SAS filament because of SAS's UV and high temperature resistance. The 3d print was 
 developed using SolidWorks 2020, and 3d printed on a Qidi X-Plus printer.
+![SolidWorks Wind Direction Half] https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/WindDirection_SensorV2_Half_Zoomed.PNG
+
 
 
 ## Working Version
