@@ -1,3 +1,11 @@
+.ioc
+.cproject
+.mxproject
+.project
+.pref
+.xml
+
+
 # Prerequisites
 *.d
 
