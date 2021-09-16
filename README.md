@@ -1,6 +1,6 @@
 
 # Weather Monitoring Project
-![Wind Direction Sensor with Display showing arrow](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/Assemled_With_Display_02.png)
+![Wind Direction Sensor with Display showing arrow](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/Assemled_With_Display.png)
 
 
 ## Purpose
