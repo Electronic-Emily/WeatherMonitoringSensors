@@ -1,5 +1,6 @@
 
 # Weather Monitoring Project
+![Wind Direction Sensor with Display showing arrow](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/Assembled_With_Display.PNG)
 
 
 ## Purpose
@@ -14,7 +15,6 @@ The station's environmental sensing abilities should include:
 - Light Brightness
 
 
-![Wind Direction Sensor with Display showing arrow](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/Wind_Sensor/pictures/Assembled_With_Display.PNG)
 
 
 
