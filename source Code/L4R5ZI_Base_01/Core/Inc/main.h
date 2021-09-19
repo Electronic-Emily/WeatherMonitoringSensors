@@ -64,10 +64,6 @@ void Error_Handler(void);
 #define USER_BUTTON_Pin GPIO_PIN_13
 #define USER_BUTTON_GPIO_Port GPIOC
 #define USER_BUTTON_EXTI_IRQn EXTI15_10_IRQn
-#define SPI_CLK_Pin GPIO_PIN_0
-#define SPI_CLK_GPIO_Port GPIOA
-#define SPI_OUT_Pin GPIO_PIN_0
-#define SPI_OUT_GPIO_Port GPIOB
 #define DATA_CMD_LCD_Pin GPIO_PIN_10
 #define DATA_CMD_LCD_GPIO_Port GPIOE
 #define LCD_CS_Pin GPIO_PIN_12
