@@ -5,8 +5,9 @@ Based on the supplier's website, the recommened voltage is 9V0 volts. So for thi
 For this project the speed sensor's input will be, 9V0 and return.
 While the output will be an analog volatage. Further testing will determine what resistor divider ratio that will be needed. 
 
-## Part
-  - Part: ID: 1733 from Adafruit.com
+## Parts
+  - Wind Speed Sensor, Part: ID: 1733 from Adafruit.com
+  - DC-DC Buck Converter Power Supply, from amazon.com 
 
 ## Wind Speed Sensor Power Supply
 ![Setting voltage of power supply](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/WindSpeed/WindSpeed_PowerSupply_Set.JPG)
