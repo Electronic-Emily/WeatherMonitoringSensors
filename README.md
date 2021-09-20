@@ -50,6 +50,8 @@ For the first proof of concept a Nucleo-L4R5ZI-P (STM32L4R5ZI) dev board was cho
 
 ![Ambient Sensor Board - Documentation](https://github.com/Electronic-Emily/WeatherMonitoringSensors/tree/main/docs/Sensor_Board)
 
+![Wind Speed Sensor](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/WindSpeed)
+
 #### Video Link
 ![Wind Direction Sensor - Youtube video functionality test](https://www.youtube.com/watch?v=b739gNtUACo)
 
