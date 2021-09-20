@@ -36,28 +36,29 @@ For the first proof of concept a Nucleo-L4R5ZI-P (STM32L4R5ZI) dev board was cho
 |Wind Speed | ID: 1733 | | adafruit.com |
 |Wind Direction | NA |  Self-Built | NA |
 
-
-### Other
+### Other Parts
   |                | Part #  |  Mfr. Name                    | Part Source                         |
 |--------|--------|----------|-----------|
 |Display Dev Board | 3.5" TFT 320x480 HXD8357D |  | adafruit.com |
 |MCU Dev Board| Nucleo-L4R5ZI | STM  | digikey.com |
 
+### Custom Wind Direction Sensor Parts
+  |    | Part #  |  Mfr. Name      | Part Source      |
+|------|-----|----|-----------|
+|GPIO Expander | SX1502I087TRT | SEMTECH  | digikey.com |
+|Reed-switches | PMC-0701S1015 | PIC GmbH | digikey.com |
 
-### Doc Links
-#### Sensor Docs
+
+## Doc Links
+### Sensor Docs
 ![Wind Direction Sensor - Documentation](https://github.com/Electronic-Emily/WeatherMonitoringSensors/tree/main/docs/Wind_Sensor)
 
 ![Ambient Sensor Board - Documentation](https://github.com/Electronic-Emily/WeatherMonitoringSensors/tree/main/docs/Sensor_Board)
 
 ![Wind Speed Sensor](https://github.com/Electronic-Emily/WeatherMonitoringSensors/blob/main/docs/WindSpeed)
 
-#### Video Link
+### Video Link
 ![Wind Direction Sensor - Youtube video functionality test](https://www.youtube.com/watch?v=b739gNtUACo)
 
-  |    | Part #  |  Mfr. Name      | Part Source      |
-|------|-----|----|-----------|
-|GPIO Expander | SX1502I087TRT | SEMTECH  | digikey.com |
-|Reed-switches | PMC-0701S1015 | PIC GmbH | digikey.com |
 
 
